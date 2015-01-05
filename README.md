@@ -1,4 +1,5 @@
-LabyrinthEscape
+Labyrinth Escape by Lowe Antony Balean, Maricar Arino, & Kristine Marie Razo
 ===============
 
-maze
+Maze Maze
+
