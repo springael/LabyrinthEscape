@@ -1,4 +1,4 @@
 LabyrinthEscape
 ===============
 
-repository
+maze
